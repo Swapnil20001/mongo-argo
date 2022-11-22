@@ -10,6 +10,6 @@ spec:
     server: "https://kubernetes.default.svc"
   source:
     path: .
-    repoURL: ""
+    repoURL: "https://github.com/Swapnil20001/mongo-argo.git"
     targetRevision: HEAD
 
