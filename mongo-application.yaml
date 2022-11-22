@@ -9,7 +9,7 @@ spec:
     namespace: default
     server: "https://kubernetes.default.svc"
   source:
-    path: .
+    path: manifest 
     repoURL: "https://github.com/Swapnil20001/mongo-argo.git"
     targetRevision: HEAD
 
