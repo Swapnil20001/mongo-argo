@@ -13,3 +13,8 @@ spec:
     repoURL: "https://github.com/Swapnil20001/mongo-argo.git"
     targetRevision: HEAD
 
+  syncPolicy:
+    automated:
+      selfHeal: true
+      prune: true
+
